@@ -56,8 +56,8 @@
 - PowerPlatform
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmmanuelHR5&theme=midnight_purple&utcOffset=-6)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmmanuelHR5&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EMMYT555&theme=midnight_purple&utcOffset=-6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EMMYT555&theme=midnight_purple)
 
 ---
 
