@@ -1,16 +1,67 @@
-## Hi there 👋
+## 👋 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&width=600&lines=Hi%2C+I%27m+Emmanuel+Hernandez+Rivas;EmmanuelHR5" alt="Typing SVG" />
 
-<!--
-**EMMYT555/EMMYT555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student  
+💻 Interested in software development, networking, system programming, and application development.  
+📚 I work on academic and personal projects focused on logic, databases, and multiplatform development.
+🧑‍💻 Currently being intern in Caterpillar.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies and Languages
+
+  ### 🧠 Programming Languages
+  - C++ / C#
+  - Java
+  - Python
+  - SQL
+  - Swift
+  - Objective-C
+  - Kotlin
+  - MongoDB
+  - PowerPlatform
+
+  ### 🛠️ Tools and Environments
+  - Git & GitHub
+  - Linux / macOS
+  - Visual Studio Code
+  - Xcode
+  - Android Studio
+  - SQL Server / MySQL
+  - Oracle Cloud Infrastructure (OCI)
+  - Postman
+  - Insomnia
+  - VMware Workstation
+  - Docker
+
+---
+
+## 📌 Featured Projects
+- Lexical and semantic analyzer
+- C console programs (Linux / macOS)
+- Applications in Swift and Objective-C (iOS / macOS)
+- Systems with relational databases
+- AI-powered email manager
+- MERN ticket management system
+- Corporate website development
+- Documentation and 3D modeling of the Computer Science building at **TECNM Campus Laguna**
+
+---
+
+## 🌱 Currently Learning
+- Django
+- Swift
+- Arduino
+- Network administration
+- Database administration
+- PowerPlatform
+
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmmanuelHR5&theme=midnight_purple&utcOffset=-6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmmanuelHR5&theme=midnight_purple)
+
+---
+
+## 📫 Contact
+- 📧 Email: **emmanuelhn108@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/emmanuel-hernández-rivas-246616254
+- 🐙 GitHub: https://github.com/EmmanuelHR5
